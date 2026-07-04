@@ -1,16 +1,116 @@
-# React + Vite
+# 🌊 Waterborne Disease Prediction Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered web application for **Waterborne Disease Prediction** and **Risk Assessment** using Machine Learning, FastAPI, React, and interactive analytics dashboards.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🩺 Disease Prediction using symptoms
+- ⚠️ Waterborne Disease Risk Assessment
+- 📊 Interactive Analytics Dashboard
+- 📈 Charts and Visualizations
+- 🤖 Machine Learning Models
+- ⚡ FastAPI REST API
+- 💻 Responsive React Frontend
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Frontend
+- React.js
+- Vite
+- Chart.js
+
+### Backend
+- FastAPI
+- Python
+
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+- Pandas
+- NumPy
+
+---
+
+## 📂 Project Structure
+
+```
+Waterborne_Disease_Prediction
+│
+├── backend
+│   ├── Models
+│   ├── app.py
+│   ├── requirements.txt
+│
+├── frontend
+│   ├── src
+│   ├── public
+│   ├── package.json
+│
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/garvmakhija/WaterBorne_Disease_Prediction.git
+```
+
+### Backend
+
+```bash
+cd backend
+pip install -r requirements.txt
+uvicorn app:app --reload
+```
+
+### Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+Frontend
+
+```
+http://localhost:5173
+```
+
+Backend
+
+```
+http://127.0.0.1:8000
+```
+
+---
+
+## 📌 Future Improvements
+
+- User Authentication
+- Cloud Deployment
+- Real-time Water Quality Integration
+- Explainable AI
+- GIS-based Disease Mapping
+
+---
+
+## 👨‍💻 Author
+
+**Garv Makhija**
+
+GitHub:
+https://github.com/garvmakhija
+
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
