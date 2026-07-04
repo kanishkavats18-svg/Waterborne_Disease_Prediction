@@ -1,0 +1,25 @@
+timestamp,prediction_type,disease,state,district,water_source,water_treatment,water_quality_index,ph,turbidity_ntu,dissolved_oxygen_mg_l,risk_prediction
+2026-06-26 13:53:25,Disease Predictor,Hepatitis_E,,,,,,,,,
+2026-06-26 13:53:39,Risk Predictor,Cholera,Delhi,New Delhi,Piped,Filtered,80,7,2,8,Cholera
+2026-06-26 14:00:59,Disease Predictor,No_Disease,,,,,,,,,
+2026-06-26 14:02:21,Disease Predictor,Giardiasis,,,,,,,,,
+2026-06-26 14:17:13,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:23,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:26,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:30,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:33,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:39,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:43,Disease Predictor,Leptospirosis,,,,,,,,,
+2026-06-26 14:17:49,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 14:17:56,Disease Predictor,Dysentery,,,,,,,,,
+2026-06-26 20:53:56,Disease Predictor,Giardiasis,,,,,,,,,
+2026-06-26 20:56:21,Risk Predictor,Cholera,Delhi,New Delhi,Piped,Filtered,80,7,2,8,Cholera
+2026-06-27 00:24:04,Risk Predictor,Cholera,Delhi,New Delhi,Piped,Chlorinated,50,7,303,8,Cholera
+2026-06-27 01:01:56,Disease Predictor,Hepatitis_E,,,,,,,,,
+2026-06-27 01:02:42,Risk Predictor,Cholera,Delhi,New Delhi,Borewell,Boiled,80,2,300,1,Cholera
+2026-06-27 01:11:03,Disease Predictor,Giardiasis,,,,,,,,,
+2026-06-27 01:11:52,Disease Predictor,Giardiasis,,,,,,,,,
+2026-06-27 01:32:11,Disease Predictor,No_Disease,,,,,,,,,
+2026-06-27 01:39:39,Disease Predictor,Hepatitis_A,,,,,,,,,
+2026-06-27 01:40:19,Disease Predictor,Hepatitis_A,,,,,,,,,
+2026-06-27 01:58:04,Risk Predictor,Cholera,Assam,Tinsukia,Borewell,Untreated,17.8,6.34,21.1,2.9,Cholera
