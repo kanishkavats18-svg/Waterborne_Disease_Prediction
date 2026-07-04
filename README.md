@@ -60,7 +60,7 @@ Waterborne_Disease_Prediction
 ### Clone Repository
 
 ```bash
-git clone https://github.com/garvmakhija/WaterBorne_Disease_Prediction.git
+git clone https://github.com/kanishkavats18-svg/Waterborne_Disease_Prediction.git
 ```
 
 ### Backend
@@ -105,10 +105,12 @@ http://127.0.0.1:8000
 
 ## 👨‍💻 Author
 
-**Garv Makhija**
+Authors
 
-GitHub:
-https://github.com/garvmakhija
+Kanishka Vats
+GitHub: https://github.com/kanishkavats18-svg
+
+Collaborative project developed with Garv Makhija.
 
 
 ---
